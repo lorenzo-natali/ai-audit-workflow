@@ -76,10 +76,6 @@ Audit Report Builder is a local-first Flask application for building audit workp
 
 The project is actively under development. Core workflows already work end-to-end, but some areas are still being refined.
 
-## Current Status In Detail
-
-This repository is usable, but it should still be treated as work in progress.
-
 ### Already Working
 
 - previous-audit DOCX import
