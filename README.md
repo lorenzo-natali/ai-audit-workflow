@@ -1,8 +1,15 @@
-# AI Audit Workflow
+# AI Audit Workflow  
+### From control function to analytical system
 
-AI-assisted system to transform audit into a structured, traceable and data-driven process.
+> Early-stage prototype (work in progress)
 
-> Personal project exploring audit as a system: workflows, data models and controlled AI integration.
+Audit, in most organizations, remains a document-heavy control function: fragmented files, manual reviews and limited reproducibility.
+
+This project challenges that model.
+
+It explores audit as a structured system where findings become data, workflows become processes and analysis becomes reproducible. AI is integrated not as a black box, but as a controlled and reviewable layer within the audit lifecycle.
+
+---
 
 ## At a glance
 
@@ -13,38 +20,49 @@ AI-assisted system to transform audit into a structured, traceable and data-driv
 
 ## Interface Preview
 
-### Import Previous Audit
+The system is organized into modular workspaces reflecting the audit lifecycle.
+
+---
+
+### 1. Import Previous Audit
+
+Initialize the audit by importing prior reports and establishing historical context.
 
 ![Import](./assets/import.png)
 
-### Findings & Audit Items
+---
+
+### 2. Findings & Audit Items
+
+Structure findings as standardized data, with classification, ownership and lifecycle tracking.
 
 ![Items](./assets/items.png)
 
-### Evidence & References
+---
+
+### 3. Evidence & References
+
+Link findings to supporting evidence and regulatory sources, ensuring full traceability.
 
 ![Evidence](./assets/evidence.png)
 
-## Why this project
+---
 
-Traditional audit relies on fragmented files, manual review and low reproducibility.
+## Conceptual Direction
 
-This project approaches audit as a system:
-- findings become structured data
-- workflows become traceable processes
-- analysis becomes reproducible rather than manual
-- AI is integrated as a controlled, reviewable layer — not as a black box
+The long-term objective is to bridge internal audit, data systems and quantitative risk analysis.
 
-## What it does
+Rather than treating audit as a retrospective control layer, this project moves toward a model where audit becomes:
 
-- Structures audit metadata, findings and references into a canonical data model
-- Organizes audit work into workflow-based workspaces instead of static documents
-- Integrates local AI models for assisted analysis, drafting and document understanding
-- Preserves traceability through review steps, sidecar logs and explicit save logic
+- a system of structured information  
+- a reproducible analytical process  
+- a layer of governance integrated with technology  
 
-## Current status
+---
 
-Work in progress. Core workflows are already functional and actively used as a testbed for iterative development.
+## Status
+
+Work in progress. Core workflows are functional and used as a testbed for iterative development.
 
 ---
 
