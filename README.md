@@ -1,6 +1,15 @@
-# Audit Report Builder
+# AI Audit Workflow
 
-A system designed to transform audit from a document-heavy control activity into a structured, data-driven analytical process.
+AI-assisted system to transform audit into a structured, traceable and data-driven process.
+
+> Personal project exploring audit as a system: workflows, data models and controlled AI integration.
+
+## At a glance
+
+- Structured audit data model (findings, metadata, references)
+- Workflow-based audit process (not document-based)
+- Local AI integration (LLM + VLM, fully controlled and reviewable)
+- End-to-end traceability between findings, evidence and regulation
 
 ## Why this project
 
