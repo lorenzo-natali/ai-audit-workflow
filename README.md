@@ -13,7 +13,17 @@ AI-assisted system to transform audit into a structured, traceable and data-driv
 
 ## Interface Preview
 
-![Audit Workflow](./assets/screenshot.png)
+### Import Previous Audit
+
+![Import](./assets/import.png)
+
+### Findings & Audit Items
+
+![Items](./assets/items.png)
+
+### Evidence & References
+
+![Evidence](./assets/evidence.png)
 
 ## Why this project
 
