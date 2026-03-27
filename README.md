@@ -11,6 +11,10 @@ AI-assisted system to transform audit into a structured, traceable and data-driv
 - Local AI integration (LLM + VLM, fully controlled and reviewable)
 - End-to-end traceability between findings, evidence and regulation
 
+## Interface Preview
+
+![Audit Workflow](./assets/screenshot.png)
+
 ## Why this project
 
 Traditional audit relies on fragmented files, manual review and low reproducibility.
